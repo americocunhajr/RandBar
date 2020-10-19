@@ -20,6 +20,18 @@ This code was developed to conduct stochastic simulations of a bar structural sy
 We kindly ask users to cite the following reference in any publications reporting work done with **RandBar**:
 - *A. Cunha Jr, R. Sampaio, On the nonlinear stochastic dynamics of a continuous system with discrete attached elements, Applied Mathematical Modelling, v. 39, pp. 809-819, 2015* http://dx.doi.org/10.1016/j.apm.2014.07.012
 
+```
+@article{CunhaJr2015p809,
+author  = {A. {Cunha~Jr} and R. Sampaio},
+title   = {On the nonlinear stochastic dynamics of a continuous system with discrete attached elements},
+journal = {Applied Mathematical Modelling},
+year    = {2015},
+volume  = {39},
+pages   = {809-819},
+doi     = {http://dx.doi.org/10.1016/j.apm.2014.07.012},
+}
+```
+
 ## License
 
 **RandBar** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
