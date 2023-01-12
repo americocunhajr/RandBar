@@ -5,7 +5,7 @@
 ## Software History
 
 This code was developed to conduct stochastic simulations of a bar structural system with with attached discrete elements. The underlying results are reported in the following paper:
-- *A. Cunha Jr, R. Sampaio, On the nonlinear stochastic dynamics of a continuous system with discrete attached elements, Applied Mathematical Modelling, v. 39, pp. 809-819, 2015* http://dx.doi.org/10.1016/j.apm.2014.07.012
+- *A. Cunha Jr, R. Sampaio, On the nonlinear stochastic dynamics of a continuous system with discrete attached elements, Applied Mathematical Modelling, v. 39, pp. 809-819, 2015 http://dx.doi.org/10.1016/j.apm.2014.07.012*
 
 ## Documentation
 
@@ -18,7 +18,7 @@ This code was developed to conduct stochastic simulations of a bar structural sy
 ## Citing RandBar
 
 We kindly ask users to cite the following reference in any publications reporting work done with **RandBar**:
-- *A. Cunha Jr, R. Sampaio, On the nonlinear stochastic dynamics of a continuous system with discrete attached elements, Applied Mathematical Modelling, v. 39, pp. 809-819, 2015* http://dx.doi.org/10.1016/j.apm.2014.07.012
+- *A. Cunha Jr, R. Sampaio, On the nonlinear stochastic dynamics of a continuous system with discrete attached elements, Applied Mathematical Modelling, v. 39, pp. 809-819, 2015 http://dx.doi.org/10.1016/j.apm.2014.07.012*
 
 ```
 @article{CunhaJr2015p809,
