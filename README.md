@@ -12,7 +12,7 @@ This code was developed to conduct stochastic simulations of a bar structural sy
 **RandBar** routines are commented in order to explain their functionality to the final user. Each routine has a short description about its purpose, and a list of inputs and/or outputs.
 
 ## Authors
-- Americo Cunha
+- Americo Cunha Jr
 - Rubens Sampaio
 
 ## Citing RandBar
