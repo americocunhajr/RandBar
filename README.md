@@ -1,6 +1,6 @@
 <img src="logo/RandBar.png" width="40%">
 
-**RandBar - Random Dynamics of a Bar System** is a Matlab code to simulate the nonlinear stochastic dynamics of a bar structural system with attached discrete elements. The implementation follows an educational style, to make its use very intuitive.
+**RandBar: Random Dynamics of a Bar System** is a Matlab code to simulate the nonlinear stochastic dynamics of a bar structural system with attached discrete elements. The implementation follows an educational style, to make its use very intuitive.
 
 ## Software History
 
