@@ -22,8 +22,7 @@
 ## Features
 - Simulates nonlinear stochastic dynamics of bar systems
 - Intuitive Matlab implementation
-- Educationally styled for easy understanding
-- Comprehensive documentation and comments
+- Educationally styled code for easy understanding
 
 ## Usage
 To get started with **RandBar**, follow these steps:
