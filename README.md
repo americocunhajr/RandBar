@@ -1,15 +1,46 @@
 <img src="logo/RandBar.png" width="40%">
 
-**RandBar: Random Dynamics of a Bar System** is a Matlab code to simulate the nonlinear stochastic dynamics of a bar structural system with attached discrete elements. The implementation follows an educational style, to make its use very intuitive.
+# RandBar: Random Dynamics of a Bar System
 
-## Software History
+**RandBar** is a powerful Matlab tool designed to simulate the nonlinear stochastic dynamics of a bar structural system with attached discrete elements. The code is developed with an educational approach, making it user-friendly and intuitive.
 
-This code was developed to conduct stochastic simulations of a bar structural system with with attached discrete elements. The underlying results are reported in the following paper:
-- *A. Cunha Jr, R. Sampaio, On the nonlinear stochastic dynamics of a continuous system with discrete attached elements, Applied Mathematical Modelling, v. 39, pp. 809-819, 2015 http://dx.doi.org/10.1016/j.apm.2014.07.012*
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Authors](#authors)
+- [Citing RandBar](#citing-randbar)
+- [License](#license)
+- [Institutional Support](#institutional-support)
+- [Funding](#funding)
+
+## Overview
+**RandBar** was developed to conduct stochastic simulations of a bar structural system with attached discrete elements. The results have been published in a peer-reviewed journal:
+- **A. Cunha Jr, R. Sampaio**, *On the nonlinear stochastic dynamics of a continuous system with discrete attached elements*, Applied Mathematical Modelling, 39, pp. 809-819, 2015. [DOI](http://dx.doi.org/10.1016/j.apm.2014.07.012)
+
+## Features
+- Simulates nonlinear stochastic dynamics of bar systems
+- Intuitive Matlab implementation
+- Educationally styled for easy understanding
+- Comprehensive documentation and comments
+
+## Usage
+To get started with **RandBar**, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/RandBar.git
+2. Navigate to the code directory:
+   ```bash
+   cd RandBar/RandBar-1.0
+3. Execute:
+   ```bash
+   main__randbar_fixed_mass_spring__MC
+   ```
 
 ## Documentation
 
-**RandBar** routines are commented in order to explain their functionality to the final user. Each routine has a short description about its purpose, and a list of inputs and/or outputs.
+The routines in **RandBar** are thoroughly commented to explain their functionality. Each routine includes a description of its purpose, as well as inputs and outputs.
 
 ## Authors
 - Americo Cunha Jr
@@ -17,7 +48,7 @@ This code was developed to conduct stochastic simulations of a bar structural sy
 
 ## Citing RandBar
 
-We kindly ask users to cite the following reference in any publications reporting work done with **RandBar**:
+If you use **RandBar** in your research, please cite the following publication:
 - *A. Cunha Jr, R. Sampaio, On the nonlinear stochastic dynamics of a continuous system with discrete attached elements, Applied Mathematical Modelling, v. 39, pp. 809-819, 2015 http://dx.doi.org/10.1016/j.apm.2014.07.012*
 
 ```
