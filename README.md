@@ -41,7 +41,7 @@ To get started with **RandBar**, follow these steps:
 
 The routines in **RandBar** are thoroughly commented to explain their functionality. Each routine includes a description of its purpose, as well as inputs and outputs.
 
-## Authors
+### Authors
 - Americo Cunha Jr
 - Rubens Sampaio
 
