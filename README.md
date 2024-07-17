@@ -26,7 +26,7 @@
 To get started with **RandBar**, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RandBar.git
+   git clone https://github.com/americocunhajr/RandBar.git
    ```
 2. Navigate to the code directory:
    ```bash
