@@ -2,6 +2,10 @@
 
 **RandBar: Random Dynamics of a Bar System** is a powerful Matlab tool designed to simulate the nonlinear stochastic dynamics of a bar structural system with attached discrete elements. The code is developed with an educational approach, making it user-friendly and intuitive.
 
+<p align="center">
+<img src="logo/BarSchematic.png" width="60%">
+</p>
+
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
